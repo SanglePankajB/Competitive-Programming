@@ -1,0 +1,8 @@
+decimal to octal :
+Represent it in the form of decresing order of power of 8
+e.g 1)    100 = 1*8**2 + 4*8**1 + 4*8**0 = 144(octal of 100)
+
+
+decimal to hexadecimal :
+Represent it in the form of decreasing order of power of 16
+e.g 2)    100 = 6*16**1 + 4*16**0 = 64(hexadecimal of 100)

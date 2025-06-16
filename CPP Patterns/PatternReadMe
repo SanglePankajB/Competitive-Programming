@@ -1,0 +1,8 @@
+Rules :
+1. In the o/p pattern or any loop flows from left to right.
+
+2. One row can only be ended when we add line break "endl".
+
+3. That means we can print multiple things on one single line.
+
+4. e.g for spaces in the first one loop inside main row's loop (i loop) and then second loop for printing "*"  and when your imaginary row ends you end row by cout<<endl;.
