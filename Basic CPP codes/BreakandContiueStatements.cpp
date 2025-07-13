@@ -12,8 +12,8 @@ using namespace std;
 
 int main()
 {
-    int n;
-    cin>>n;
+    // int n;
+    // cin>>n;
     // while (n>1){
 
     //     if(n==10){
@@ -27,14 +27,23 @@ int main()
     //     cout<<n<<" ";
     //     n--;
     // }
-    for(int i=0;i<n;i++){
-        cout<<"This is i : "<<i<<"\n";
-        for(int j=i;j<n;j++){
-            cout<<"This is j: "<<j<<endl;
-            if(j==4){
-                break;                    // This time break will terminate the inner for loop not outer
-            }
+    // for(int i=0;i<n;i++){
+    //     cout<<"This is i : "<<i<<"\n";
+    //     for(int j=i;j<n;j++){
+    //         cout<<"This is j: "<<j<<endl;
+    //         if(j==4){
+    //             break;                    // This time break will terminate the inner for loop not outer
+    //         }
+    //     }
+    // }
+
+
+    for(int i=0;i<5;i++){
+        
+        if (i==3){
+            pass;       // there is no pass statement in cpp
         }
+        cout<<"This is i : "<<i<<"\n";
     }
 
     return 0;

@@ -20,8 +20,12 @@ using namespace std;
 
 class parent{
     int a = 1;
+    string name = "pankaj";
     public:
     int b = 3;
+    string printname(){
+        return name;
+    }
 };
 class child:private parent{
     public:
@@ -36,6 +40,7 @@ int main()
 {
     child a;
     g b;
+    a.printname();
 
     return 0;
 }

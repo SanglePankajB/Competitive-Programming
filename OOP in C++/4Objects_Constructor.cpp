@@ -1,5 +1,5 @@
 
-// """In reallife application developement constructors are very imp because they dont have user control on their execution, they gets automatically called when instance is created
+// """In real life application developement constructors are very imp because they dont have user control on their execution, they gets automatically called when instance is created
 // for eg when we open application, then app automatically gets connected to internet, db, api's etc we dont ask these permissions to the user """
 
 
