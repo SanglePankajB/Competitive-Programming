@@ -2,7 +2,13 @@
 All cpp topics and files
 
 
-pankaj sangle
+
+
+
+
+### Imp for Git
+
+Names of the remote and local branches shiould be same so you will encounter lesser problems
 
 
 PAT:
